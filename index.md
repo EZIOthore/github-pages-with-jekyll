@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Ealllooo this is my first blog page "
 ---
 
-I'm glad you are here. I plan to talk about ...
+i dont know what to do with this life ...
